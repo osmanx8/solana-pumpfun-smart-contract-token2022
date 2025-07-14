@@ -1,5 +1,4 @@
-# 💊 TOKEN2022 — Pumpfun Smart Contract Overview
-This documentation provides a professional and technical overview of the **Pumpfun smart contract** using the new **SPL TOKEN2022 standard**. It is designed to empower developers with advanced DeFi capabilities like programmable tax logic, fee control, and seamless liquidity migration across Raydium protocols.
+# 💊 TOKEN2022 — Pumpfun Smart Contract Overview             This documentation provides a professional and technical overview of the **Pumpfun smart contract** using the new **SPL TOKEN2022 standard**. It is designed to empower developers with advanced DeFi capabilities like programmable tax logic, fee control, and seamless liquidity migration across Raydium protocols.
 
 ---
 
